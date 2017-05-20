@@ -3116,7 +3116,7 @@
 			}
 
 			#menu > .close:hover:after {
-				opacity: 0;
+				opacity: 1;
 			}
 
 		@media screen and (max-width: 736px) {

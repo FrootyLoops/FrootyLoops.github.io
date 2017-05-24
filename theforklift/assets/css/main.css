@@ -3192,8 +3192,8 @@
 /* Footer */
 
 	#footer {
-		padding: 5em 0 6em 0 ;
-		background-color: #f6f6f6;
+		padding: 5em 0 6em 0;
+		background-color: #1a2026;
 	}
 
 		#footer > .inner {
@@ -3231,7 +3231,7 @@
 				margin-top: 5em;
 				list-style: none;
 				font-size: 0.8em;
-				color: rgba(88, 88, 88, 0.5);
+				color: rgba(255, 255, 255, 0.5);
 			}
 
 				#footer > .inner .copyright a {

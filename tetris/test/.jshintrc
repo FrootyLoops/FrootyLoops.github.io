@@ -1,9 +1,0 @@
-{
-  "curly": false,
-  "globals": {
-    "define": false,
-    "describe": false,
-    "expect": false,
-    "it": false
-  }
-}
